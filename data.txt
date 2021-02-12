@@ -1,0 +1,1 @@
+{"people": [{"name": "Mohan", "university": "klh", "from": "Manikonda"}, {"name": "Anitha", "university": "klh", "from": "kukatpally"}, {"name": "Geeta", "university": "klu", "from": "jntu"}, {"name": "Babu", "university": "klu", "from": "jbs"}, {"name": "ABC", "university": "klh", "from": "xyz"}]}
